@@ -1,10 +1,12 @@
-# 💣 Minesweeper 3D – Modern UI Project
+# Minesweeper 3D – Modern UI Project
 
 A modernized Minesweeper game built with **React**, **Material UI**, and **CSS 3D transformations** as part of the *Modern User Interfaces (DTEK2090)* course at the University of Turku.
 
 ---
+## Contributors
+- Mohammad Abubakr, 2410176. Entire project and documentation is done by me alone.
 
-## 🎮 Features
+## Features
 
 - Classic Minesweeper gameplay with a modern UI twist
 - 3 difficulty modes:
@@ -25,7 +27,7 @@ A modernized Minesweeper game built with **React**, **Material UI**, and **CSS 3
 
 
 
-## 🧪 Technologies Used
+## Technologies Used
 
 - **React**
 - **Material UI**
@@ -33,7 +35,7 @@ A modernized Minesweeper game built with **React**, **Material UI**, and **CSS 3
 
 ---
 
-## 📦 Installation & Running the Project
+## Installation & Running the Project
 
 1. **Clone the repository**
    ```bash
